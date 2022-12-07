@@ -38,10 +38,10 @@ movie ratings vs stock price to see if this is a better indicator vs. COVID vari
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeremiah Sulunteh</br>
 
 
-### Results <img src="https://github.com/theidari/project1/blob/main/NetflixLine.png" width="700">
+### Results <img src="https://github.com/theidari/project1/blob/main/NetflixLine.png" width="720">
 
 
-### Documents and Reference <img src="https://github.com/theidari/project1/blob/main/NetflixLine.png" width="600">
+### Documents and Reference <img src="https://github.com/theidari/project1/blob/main/NetflixLine.png" width="570">
 
 <h4>Documents</h4>
   - Data Source
