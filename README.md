@@ -1,11 +1,14 @@
 <p align="center">
-<img src="https://github.com/theidari/project1/blob/Ali/Netflix.png" width="900"
+<img src="https://github.com/theidari/project1/blob/Ali/Netflix.png" width="900">
 </p>
+
 
 Netflix is a subscription-based streaming service,
 
 
-<h3>Project Overview</h3>
+
+### Project Overview <img src="https://github.com/theidari/project1/blob/main/NetflixLine.png" width="700">
+
 Netflix performance (stock price, and trading volume (add if we have time) through the pandemic 
 (different variables: number of daily cases, number of deaths, industrywise trend? movie ratings?)
 
