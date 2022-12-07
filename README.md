@@ -15,11 +15,11 @@ Netflix performance (stock price, and trading volume (add if we have time) throu
 
 <h4>Objective base on Question</h4>
 Q1
-stock price vs. number of daily cases (weak correlation)
+stock price vs. number of daily cases (weak correlation)</br>
 stock price (lagged by a week) vs. number of daily cases (find this correlation) Eric
 
 Q2
-stock price vs. number of deaths (find correlation) Ali
+stock price vs. number of deaths (find correlation) Ali </br>
 stock price (lagged by a week) vs. number of deaths (find this) Jeremiah
 
 Q3
@@ -38,7 +38,7 @@ movie ratings vs stock price to see if this is a better indicator vs. COVID vari
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeremiah Sulunteh</br>
 
 
-### Results <img src="https://github.com/theidari/project1/blob/main/NetflixLine.png" width="720">
+### Results <img src="https://github.com/theidari/project1/blob/main/NetflixLine.png" width="740">
 
 
 ### Documents and Reference <img src="https://github.com/theidari/project1/blob/main/NetflixLine.png" width="570">
