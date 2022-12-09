@@ -45,6 +45,8 @@ movie ratings vs stock price to see if this is a better indicator vs. COVID vari
 
 <h4>Documents</h4>
   - Data Source
+  
+  <sup>[1]</sup><a href="https://www.kaggle.com/datasets/meetnagadia/netflix-stock-price-data-set-20022022"> Netflix Stock Price Data set 2002-2022 </a>
 
 <h4>Reference</h4>
   
