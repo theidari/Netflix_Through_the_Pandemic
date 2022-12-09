@@ -13,7 +13,30 @@ Netflix performance (stock price, and trading volume (add if we have time) throu
 
 <h4>Project Idea and Reason</h4>
 
-<h4>Objective base on Question</h4>
+<h4>Objective and Question</h4>
+
+<table border="2px">
+  <tr>
+    <td rowspan="5"><b>Objective:</b><br> &nbsp;&nbsp;&nbsp;Netflix performance (stock price, and trading volume (add if we have</br> time) through the pandemic 
+(different variables: number of daily cases,</br> number of deaths, industrywise trend? movie ratings?)
+</td>
+    <th colspan="2"><img src="https://github.com/theidari/project1/blob/main/3567801.jpg" width="200">
+</th>
+  </tr>
+  <tr>
+    <td><b>Q1</b></td>
+    <td>stock price vs. number of daily cases (weak correlation)</td>
+  </tr>
+  <tr>
+    <td><b>Q2</b></td>
+    <td>57</td>
+  </tr>
+</table>
+
+
+
+
+
 Q1
 stock price vs. number of daily cases (weak correlation) </br>
 stock price (lagged by a week) vs. number of daily cases (find this correlation) Eric </br>
