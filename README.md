@@ -12,7 +12,7 @@ Netflix performance (stock price, and trading volume (add if we have time) throu
 (different variables: number of daily cases, number of deaths, industrywise trend? movie ratings?)
 
 
-<table border="2px">
+<table border="0px">
   <tr>
   <td colspan="1"><img src="https://github.com/theidari/project1/blob/main/3288524.jpg" width="400"></td>
   <td colspan="1"><b>Project Idea:</b> Netflix is a subscription-based streaming service,</br></br>
@@ -22,7 +22,7 @@ Netflix performance (stock price, and trading volume (add if we have time) throu
   </tr>
 </table>
 
-<table border="2px">
+<table border="0px">
     <td rowspan="5"><b>Objective:</b><br> &nbsp;&nbsp;&nbsp;Netflix performance (stock price, and trading volume (add if we have</br> time) through the pandemic 
 (different variables: number of daily cases,</br> number of deaths, industrywise trend? movie ratings?)
 </td>
