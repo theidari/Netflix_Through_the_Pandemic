@@ -11,17 +11,22 @@ Netflix is a subscription-based streaming service,
 Netflix performance (stock price, and trading volume (add if we have time) through the pandemic 
 (different variables: number of daily cases, number of deaths, industrywise trend? movie ratings?)
 
-<h4>Project Idea and Reason</h4>
-
-<h4>Objective and Question</h4>
 
 <table border="2px">
   <tr>
+  <td colspan="1"><img src="https://github.com/theidari/project1/blob/main/3288524.jpg" width="400"></td>
+  <td colspan="1"><b>Project Idea:</b> Netflix is a subscription-based streaming service,</br></br>
+<b>Reason:</b></br>
+Netflix performance (stock price, and trading volume (add if we have time) through the pandemic 
+(different variables: number of daily cases, number of deaths, industrywise trend? movie ratings?)</td>
+  </tr>
+</table>
+<table border="2px">
     <td rowspan="5"><b>Objective:</b><br> &nbsp;&nbsp;&nbsp;Netflix performance (stock price, and trading volume (add if we have</br> time) through the pandemic 
 (different variables: number of daily cases,</br> number of deaths, industrywise trend? movie ratings?)
 </td>
-    <th colspan="2"><img src="https://github.com/theidari/project1/blob/main/3567801.jpg" width="200">
-</th>
+    <td colspan="2"><img src="https://github.com/theidari/project1/blob/main/3567801.jpg" width="200"></br><b>Questions</b>
+</td>
   </tr>
   <tr>
     <td><b>Q1</b></td>
