@@ -72,6 +72,8 @@ Netflix performance (stock price, and trading volume (add if we have time) throu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nimra Wali</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeremiah Sulunteh</br>
 
+### How to Use <img src="https://github.com/theidari/project1/blob/main/NetflixLine.png" width="700">
+
 
 ### Results <img src="https://github.com/theidari/project1/blob/main/NetflixLine.png" width="742">
 
