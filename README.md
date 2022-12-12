@@ -74,6 +74,7 @@ During the pandemic, people turned to the online streaming platforms for their m
 </p>
 adf
 </p>
+
 ### Results <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="742">
 </p>
 
@@ -100,6 +101,7 @@ adf
 </table>
 
 </p>
+
 ### Documents and Reference <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="570">
 
 <h4>Documents</h4>
