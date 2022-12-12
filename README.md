@@ -72,19 +72,21 @@ During the pandemic, people turned to the online streaming platforms for their m
 <table style="width:700">
   <tr>
     <th>Q1</th>
-    <th>
+    <td>Stock price vs. Number of daily cases showed weak negative correlation with statistical insignificance.</br>
+    Stock price vs. Number of deaths showed positive correlation with statistical significance.</td>
     </th>
   </tr>
   <tr>
     <td>Q2</td>
-    <td>Result</td>
+    <td>Stock price a week after vs. Number of daily cases showed weak negative correlation with statistical insignificance.</br>
+    Stock price a week after vs. Number of deaths showed positive correlation with statistical significance.</td>
   </tr>
   <tr>
     <td>Q3</td>
     <td>Result</td>
    <tr>
     <td>Q4</td>
-    <td>Result</td>
+    <td>Netflix's stock movement is oppositely related to Disney's stock movement.</td>
   </tr>
 </table>
 
