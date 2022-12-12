@@ -14,7 +14,7 @@
 <table border="0px">
   <tr>
   <td colspan="1"><img src="https://github.com/theidari/project1/blob/main//Images/3288524.jpg" width="400"></td>
-  <td colspan="1"><b>Project Idea:</b></br> This project explores the impact of COVID-19 on Netflix's stock price from 2019 to 2022 through different indicators. These indicators include the number of daily cases, number of deaths, </br></br>
+  <td colspan="1"><b>Project Idea:</b></br> This project explores the impact of COVID-19 on Netflix's stock price from 2019 to 2022 through different indicators. These indicators include variables like the number of daily cases and the number of deaths. </br></br>
 <b>Reason:</b></br>
 During the pandemic, people turned to the online streaming platforms for their main sources of entertainment. Netflix was one of the online streaming giants that seemed to have profited from this trend as indicated by their soaring stock price.
 </td>
@@ -22,7 +22,7 @@ During the pandemic, people turned to the online streaming platforms for their m
 </table>
 
 <table border="0px">
-    <td rowspan="5"><b>Hypothesis:</b><br> &nbsp;&nbsp;&nbsp;Netflix performance as measured by their stock price has a significant positive relationship with COVID-19.)
+    <td rowspan="5"><b>Hypothesis:</b><br> &nbsp;&nbsp;&nbsp;Netflix performance as measured by their stock price has a significant positive relationship with COVID-19.
 </td>
     <td colspan="2" align="center"><img src="https://github.com/theidari/project1/blob/main/Images/3567801.jpg" width="200"></br><b>Questions</b>
 </td>
@@ -30,36 +30,29 @@ During the pandemic, people turned to the online streaming platforms for their m
   <tr>
     <td><b>Q1</b></td>
     <td>
-    Relationship between the stock price vs. number of daily cases worldwide</br>
-    Relationship between the stock price a week after the case count vs. number of daily cases worldwide
+    Relationship between the stock price vs. number of daily cases/death worldwide</br>
     </td>
   </tr>
   <tr>
     <td><b>Q2</b></td>
     <td>
-    Relationship between the stock price vs. number of daily deaths worldwide</br>
-    Relationship between the stock price a week after the death count vs. number of daily deaths worldwide
+    Relationship between the stock price a week after vs. number of daily cases/deaths worldwide</br>
     </td>
   </tr>
   <tr>
     <td><b>Q3</b></td>
     <td>
+    Relationship between the stock price vs. number of daily cases/deaths by stock indicator</br>
+    </td>
+  </tr>
+<tr>
+    <td><b>Q4</b></td>
+    <td>
     Is the price movement an industry-wide trend? Compare Netflix with their main competitor Disney +</br>
     </td>
   </tr>
-  <tr>
-    <td><b>Q4</b></td>
-    <td>
-    Are other variables such as movie ratings accountable for the change in price?
-    </td>
   </tr>
 </table>
-
-
-
-
-
-<h4>Methods, Software, Libraries</h4>
 
 
 
@@ -70,9 +63,7 @@ During the pandemic, people turned to the online streaming platforms for their m
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nimra Wali</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeremiah Sulunteh</br>
 
-### How to Use <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="700">
-</p>
-adf
+
 </p>
 
 ### Results <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="742">
@@ -81,22 +72,19 @@ adf
 <table style="width:700">
   <tr>
     <th>Q1</th>
-    <th>Result</th>
-    <th>Visual</th>
+    <th>
+    </th>
   </tr>
   <tr>
     <td>Q2</td>
     <td>Result</td>
-    <td>Visual</td>
   </tr>
   <tr>
     <td>Q3</td>
     <td>Result</td>
-    <td>Visual</td>
    <tr>
     <td>Q4</td>
     <td>Result</td>
-    <td>Visual</td>
   </tr>
 </table>
 
