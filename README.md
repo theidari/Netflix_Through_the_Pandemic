@@ -1,58 +1,56 @@
 <p align="center">
-<img src="https://github.com/theidari/project1/blob/Ali/Netflix.png" width="900">
+<img src="https://github.com/theidari/project1/blob/main/Images//Netflix.png" width="900">
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is no secret that <a href="https://www.netflix.com/"> <b>Netflix, Inc.</b></a> is the champion in the online streaming revolution. Its streaming platform allows users to watch ad-free content anytime and anywhere over the Internet. Its content library includes television shows, documentaries, and feature films covering a wide range of genres and languages. As of now, Netflix has over 208m paid subscribers worldwide, 74m of whom are in the USA. Such unlimited access to digital content has given rise to a growing trend known as “binge-watching”; the consumption of multiple episodes of a show in one sitting. For instance, Nielson has reported that 361,000 Netflix subscribers have seen all nine episodes of Stranger Things season 2 in one sitting within 24 h of its release.
 
 
 
-### Project Overview <img src="https://github.com/theidari/project1/blob/main/NetflixLine.png" width="650">
+### Project Overview <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="650">
 
-Netflix performance (stock price, and trading volume (add if we have time) through the pandemic 
-(different variables: number of daily cases, number of deaths, industrywise trend? movie ratings?)
+
 
 
 <table border="0px">
   <tr>
-  <td colspan="1"><img src="https://github.com/theidari/project1/blob/main/3288524.jpg" width="400"></td>
-  <td colspan="1"><b>Project Idea:</b> Netflix is a subscription-based streaming service,</br></br>
+  <td colspan="1"><img src="https://github.com/theidari/project1/blob/main//Images/3288524.jpg" width="400"></td>
+  <td colspan="1"><b>Project Idea:</b></br> This project explores the impact of COVID-19 on Netflix's stock price from 2019 to 2022 through different indicators. These indicators include the number of daily cases, number of deaths, </br></br>
 <b>Reason:</b></br>
-Netflix performance (stock price, and trading volume (add if we have time) through the pandemic 
-(different variables: number of daily cases, number of deaths, industrywise trend? movie ratings?)</td>
+During the pandemic, people turned to the online streaming platforms for their main sources of entertainment. Netflix was one of the online streaming giants that seemed to have profited from this trend as indicated by their soaring stock price.
+</td>
   </tr>
 </table>
 
 <table border="0px">
-    <td rowspan="5"><b>Objective:</b><br> &nbsp;&nbsp;&nbsp;Netflix performance (stock price, and trading volume (add if we have</br> time) through the pandemic 
-(different variables: number of daily cases,</br> number of deaths, industrywise trend? movie ratings?)
+    <td rowspan="5"><b>Hypothesis:</b><br> &nbsp;&nbsp;&nbsp;Netflix performance as measured by their stock price has a significant positive relationship with COVID-19.)
 </td>
-    <td colspan="2" align="center"><img src="https://github.com/theidari/project1/blob/main/3567801.jpg" width="200"></br><b>Questions</b>
+    <td colspan="2" align="center"><img src="https://github.com/theidari/project1/blob/main/Images/3567801.jpg" width="200"></br><b>Questions</b>
 </td>
   </tr>
   <tr>
     <td><b>Q1</b></td>
     <td>
-    stock price vs. number of daily cases (weak correlation) </br>
-    stock price (lagged by a week) vs. number of daily cases (find this correlation) Eric
+    Relationship between the stock price vs. number of daily cases worldwide</br>
+    Relationship between the stock price a week after the case count vs. number of daily cases worldwide
     </td>
   </tr>
   <tr>
     <td><b>Q2</b></td>
     <td>
-    stock price vs. number of deaths (find correlation) Ali </br>
-    stock price (lagged by a week) vs. number of deaths (find this) Jeremiah
+    Relationship between the stock price vs. number of daily deaths worldwide</br>
+    Relationship between the stock price a week after the death count vs. number of daily deaths worldwide
     </td>
   </tr>
   <tr>
-    <td><b>Q2</b></td>
+    <td><b>Q3</b></td>
     <td>
-    try to explore whether this is an industry-wise trend due to COVID or if this is a unique price movement NEtflix Hammad</br>
+    Is the price movement an industry-wide trend? Compare Netflix with their main competitor Disney +</br>
     </td>
   </tr>
   <tr>
-    <td><b>Q2</b></td>
+    <td><b>Q4</b></td>
     <td>
-    movie ratings vs stock price to see if this is a better indicator vs. COVID variables. Nimra
+    Are other variables such as movie ratings accountable for the change in price?
     </td>
   </tr>
 </table>
@@ -66,19 +64,43 @@ Netflix performance (stock price, and trading volume (add if we have time) throu
 
 
 <h4>Team Members</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ji Yeol Yang</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ji Yeol (Eric) Yang</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ali Taghipour Heidari</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hammad Ahmed</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nimra Wali</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeremiah Sulunteh</br>
 
-### How to Use <img src="https://github.com/theidari/project1/blob/main/NetflixLine.png" width="700">
+### How to Use <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="700">
+</p>
+adf
+</p>
+### Results <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="742">
+</p>
 
+<table style="width:700">
+  <tr>
+    <th>Q1</th>
+    <th>Result</th>
+    <th>Visual</th>
+  </tr>
+  <tr>
+    <td>Q2</td>
+    <td>Result</td>
+    <td>Visual</td>
+  </tr>
+  <tr>
+    <td>Q3</td>
+    <td>Result</td>
+    <td>Visual</td>
+   <tr>
+    <td>Q4</td>
+    <td>Result</td>
+    <td>Visual</td>
+  </tr>
+</table>
 
-### Results <img src="https://github.com/theidari/project1/blob/main/NetflixLine.png" width="742">
-
-
-### Documents and Reference <img src="https://github.com/theidari/project1/blob/main/NetflixLine.png" width="570">
+</p>
+### Documents and Reference <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="570">
 
 <h4>Documents</h4>
   - Data Source
@@ -91,6 +113,6 @@ Netflix performance (stock price, and trading volume (add if we have time) throu
 <h4>Reference</h4>
   
 <p align="center">
-<img src="https://github.com/theidari/project1/blob/main/NetflixFooter.png" width="900">
+<img src="https://github.com/theidari/project1/blob/main/Images/NetflixFooter.png" width="900">
 </p>
 
