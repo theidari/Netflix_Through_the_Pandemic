@@ -142,6 +142,14 @@ Stock price a week after vs. Number of daily cases showed weak negative correlat
 
 <img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_SOinmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_SOoutmain.png" width="400"></br>
 
+<b>5. RSI (Relative Strength Index) Indicator</b></br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Readings below 30 generally indicate that the stock is oversold, while readings above 70 indicate that it is overbought. Traders will often place this RSI chart below the price chart for the security, so they can compare its recent momentum against its market price.</br>
+</br>
+</br>
+<img src="https://github.com/theidari/project1/blob/main/OutputData/rsi.png" width="800"></br>
+
+<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_RSIinmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_RSIoutmain.png" width="400"></br>
+
 <table style="width:700">
   <tr>
     <th>Q1</th>
