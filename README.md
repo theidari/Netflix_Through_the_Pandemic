@@ -21,7 +21,7 @@
 </table>
 
 <table border="0px">
-    <td rowspan="5"><img src="https://github.com/theidari/project1/blob/main/Images/Hypothesis.png" width="300">
+    <td rowspan="5"><img src="https://github.com/theidari/project1/blob/main/Images/Hypothesis.png" width="350">
 </td>
     <td colspan="2" align="center"><img src="https://github.com/theidari/project1/blob/main/Images/3567801.jpg" width="200"></br><b>Questions</b>
 </td>
