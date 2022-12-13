@@ -116,7 +116,14 @@ Stock price a week after vs. Number of daily cases showed weak negative correlat
 <img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2020-11-23_SMAmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-12-29_2021-04-01_SMAmain.png" width="400"></br>
 <img src="https://github.com/theidari/project1/blob/main/OutputData/2021-07-15_2021-12-31_SMAmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2022-01-01_2022-06-09_SMAmain.png" width="400"></br>
 
+<b>2. IchimokuCloud Indicator</b></br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The IchimokuKinko Hyo, or Ichimoku for short, is a technical indicator that is used to gauge momentum along with future areas of support and resistance.</br>
+</br>
+</br>
+<img src="https://github.com/theidari/project1/blob/main/OutputData/IchimokuCloud%20Indicator.png" width="800"></br>
 
+<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2020-12-31_IchimokuCloudmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2021-01-01_2021-08-31_IchimokuCloudmain.png" width="400"></br>
+<img src="https://github.com/theidari/project1/blob/main/OutputData/2021-09-01_2022-02-01_IchimokuCloudmain.png" width="400"></br>
 
 
 <table style="width:700">
