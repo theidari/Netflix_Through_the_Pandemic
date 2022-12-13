@@ -125,6 +125,22 @@ Stock price a week after vs. Number of daily cases showed weak negative correlat
 <img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2020-12-31_IchimokuCloudmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2021-01-01_2021-08-31_IchimokuCloudmain.png" width="400"></br>
 <img src="https://github.com/theidari/project1/blob/main/OutputData/2021-09-01_2022-02-01_IchimokuCloudmain.png" width="400"></br>
 
+<b>3. ADX (Average directional index) Indicator</b></br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ADX stands for Average Directional Movement Index and can be used to help measure the overall strength of a trend. The ADX indicator is an average of expanding price range values. The ADX is a component of the Directional Movement System developed by Welles Wilder.</br>
+</br>
+</br>
+<img src="https://github.com/theidari/project1/blob/main/OutputData/ADX.png" width="800"></br>
+
+<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_ADX14main.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_ADX30main.png" width="400"></br>
+<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_ADX1430main.png" width="400"></br>
+
+<b>4. stochastic oscillator</b></br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The stochastic oscillator is a momentum indicator that is widely used in forex trading to pinpoint potential trend reversals. This indicator measures momentum by comparing the close price to the trading range over a given period.</br>
+</br>
+</br>
+<img src="https://github.com/theidari/project1/blob/main/OutputData/Stochastic%20Oscillator.png" width="800"></br>
+
+<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_SOinmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_SOoutmain.png" width="400"></br>
 
 <table style="width:700">
   <tr>
