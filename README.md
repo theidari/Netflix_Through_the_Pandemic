@@ -95,7 +95,11 @@ pip install yfinance
 </p>
 
 ### Results <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="742">
-</p>
+</br>
+<img src="https://github.com/theidari/project1/blob/main/OutputData/StockChart.png" width="800"></br>
+<img src="https://github.com/theidari/project1/blob/main/OutputData/COVID-19Chart.png" width="800"></br>
+
+
 
 <table style="width:700">
   <tr>
