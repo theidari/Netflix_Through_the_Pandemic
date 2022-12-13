@@ -5,7 +5,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is no secret that <a href="https://www.netflix.com/"> <b>Netflix, Inc.</b></a> is the champion in the online streaming revolution. Its streaming platform allows users to watch ad-free content anytime and anywhere over the Internet. Its content library includes television shows, documentaries, and feature films covering a wide range of genres and languages. As of now, Netflix has over 208m paid subscribers worldwide, 74m of whom are in the USA. Such unlimited access to digital content has given rise to a growing trend known as “binge-watching”; the consumption of multiple episodes of a show in one sitting. For instance, Nielson has reported that 361,000 Netflix subscribers have seen all nine episodes of Stranger Things season 2 in one sitting within 24 h of its release.
 
 
-
 ### Project Overview <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="650">
 
 
@@ -29,25 +28,26 @@
   <tr>
     <td><b>Q1</b></td>
     <td>
-    Relationship between the stock price vs. number of daily cases/death worldwide</br>
+    Is there a relationship between the stock price vs. number of daily cases/death worldwide?</br>
     </td>
   </tr>
   <tr>
     <td><b>Q2</b></td>
     <td>
-    Relationship between the stock price a week after vs. number of daily cases/deaths worldwide</br>
+    Is there a relationship between the stock price a <b><i>week after</b></i> the case count/death count vs. number of daily cases worldwide?</br>
     </td>
   </tr>
   <tr>
     <td><b>Q3</b></td>
     <td>
-    Relationship between the stock price vs. number of daily cases/deaths by stock indicator</br>
+    Is there a relationship between the stock price vs. number of daily cases/deaths by <b><i>stock indicator</b></i>?</br>
     </td>
   </tr>
 <tr>
     <td><b>Q4</b></td>
     <td>
-    Is the price movement an industry-wide trend? Compare Netflix with their main competitor Disney +</br>
+    Is the price movement an industry-wide trend?</br> 
+    <b><i>compare Netflix with their main competitor Disney+</b></i>
     </td>
   </tr>
   </tr>
@@ -55,52 +55,43 @@
 
 #### Methods, Software and Attribution
 
-- The analyses were performed using the [OpenWeatherMap Weather](https://api.openweathermap.org/data/2.5/weather?) API in metric units and [Geoapify Place](https://api.geoapify.com/v2/places) API by `accommodation.hotel` category, and correlation checked by Linear Reression method.
+- The analyses were performed using the <a href="https://ourworldindata.org/grapher/daily-covid-cases-deaths"> Daily confirmed COVID-19 cases and deaths, World </a> and <a href="https://ca.finance.yahoo.com/"> Yahoo<i>!</i> Finance</a>. Also,the correlation checked by Linear Reression method.
 
 - Following programming languages, software, and libraries were used in this project:
 
-<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/redcube.png" width="10"> `python v.3.9.13`</br>
-<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/bluecube.png" width="10"> `jupyter notebook v.6.4.12`
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> `python v.3.9.13`</br>
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> `jupyter notebook v.6.4.12`
 `Visual Studio v.1.73.1`
 `PowerPoint v.16.0.14026.20298`</br>
-<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/yellowcube.png" width="10"> `pandas v.1.4.4`
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> `pandas v.1.4.4`
 `SciPy v.1.9.3`
 `Matplotlib v.3.6.0`
-`citipy v.0.0.5`
+`yfinance 0.1.89`
 `NumPy v.1.23.4`
-`GeoViews v.1.9.5` 
-`bokeh v.3.0.2`
-`hvplot v.0.8.2`</br>
+`plotly 5.11.0` 
+`DateTime 4.7`</br>
 
 - The project header GIF has been designed by powerpoint and `photopea.com` using <a href="https://about.netflix.com/en/company-assets">Netflix Logo</a> and assets from `Freepik.com` (include: <a href="https://www.freepik.com/free-vector/questions-concept-illustration_7191139.htm#from_view=detail_author">Questions</a>,
 <a href="https://www.freepik.com/free-vector/organic-flat-doctors-nurses-with-medical-masks_13641486.htm#query=doctor%20with%20mask&position=11&from_view=search&track=sph">Doctors / Nurses with Masks</a>, and <a href="https://www.freepik.com/free-vector/conversation-concept-illustration_7118856.htm#from_view=detail_author">Conversation</a>).
 
----
 
-<h3 align=left>How to Use</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before running <a href="https://github.com/theidari/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb">WeatherPy</a> and <a href="https://github.com/theidari/python-api-challenge/blob/main/VacationPy/VacationPy.ipynb">VacationPy</a>, you will need API keys. Create an <b>api_keys.py</b> file in the same directory containing:
+<h4 align=left>How to Use</h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before start, you will need install the libraries, for example:
 
 ```python
-# OpenWeatherMap API Key
-weather_api_key = "YOUR KEY HERE"
-
-# Geoapify API Key
-geoapify_key = "YOUR KEY HERE"
+# yahoo finance installation
+pip install yfinance
 ```
-
-
-<p align="right">
-<a href="https://github.com/theidari/pymaceuticals#overview-of-project-"><sup>TOP PAGE</sup></a>
-</P>
 
 <h4>Team Members</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ji Yeol (Eric) Yang</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ali Taghipour Heidari</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hammad Ahmed</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nimra Wali</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jeremiah Sulunteh</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<s>Nimra Wali</s></br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<s>Jeremiah Sulunteh</s></br>
 
-
+<p align="right">
+<a href="https://github.com/theidari/pymaceuticals#overview-of-project-"><sup>TOP PAGE</sup></a>
 </p>
 
 ### Results <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="742">
