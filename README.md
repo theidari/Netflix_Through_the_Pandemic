@@ -53,7 +53,45 @@
   </tr>
 </table>
 
+#### Methods, Software and Attribution
 
+- The analyses were performed using the [OpenWeatherMap Weather](https://api.openweathermap.org/data/2.5/weather?) API in metric units and [Geoapify Place](https://api.geoapify.com/v2/places) API by `accommodation.hotel` category, and correlation checked by Linear Reression method.
+
+- Following programming languages, software, and libraries were used in this project:
+
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/redcube.png" width="10"> `python v.3.9.13`</br>
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/bluecube.png" width="10"> `jupyter notebook v.6.4.12`
+`Visual Studio v.1.73.1`
+`PowerPoint v.16.0.14026.20298`</br>
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/yellowcube.png" width="10"> `pandas v.1.4.4`
+`SciPy v.1.9.3`
+`Matplotlib v.3.6.0`
+`citipy v.0.0.5`
+`NumPy v.1.23.4`
+`GeoViews v.1.9.5` 
+`bokeh v.3.0.2`
+`hvplot v.0.8.2`</br>
+
+- The project header GIF has been designed by powerpoint and `photopea.com` using <a href="https://about.netflix.com/en/company-assets">Netflix Logo</a> and assets from `Freepik.com` (include: <a href="https://www.freepik.com/free-vector/questions-concept-illustration_7191139.htm#from_view=detail_author">Questions</a>,
+<a href="https://www.freepik.com/free-vector/organic-flat-doctors-nurses-with-medical-masks_13641486.htm#query=doctor%20with%20mask&position=11&from_view=search&track=sph">Doctors / Nurses with Masks</a>, and <a href="https://www.freepik.com/free-vector/conversation-concept-illustration_7118856.htm#from_view=detail_author">Conversation</a>).
+
+---
+
+<h3 align=left>How to Use</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Before running <a href="https://github.com/theidari/python-api-challenge/blob/main/WeatherPy/WeatherPy.ipynb">WeatherPy</a> and <a href="https://github.com/theidari/python-api-challenge/blob/main/VacationPy/VacationPy.ipynb">VacationPy</a>, you will need API keys. Create an <b>api_keys.py</b> file in the same directory containing:
+
+```python
+# OpenWeatherMap API Key
+weather_api_key = "YOUR KEY HERE"
+
+# Geoapify API Key
+geoapify_key = "YOUR KEY HERE"
+```
+
+
+<p align="right">
+<a href="https://github.com/theidari/pymaceuticals#overview-of-project-"><sup>TOP PAGE</sup></a>
+</P>
 
 <h4>Team Members</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ji Yeol (Eric) Yang</br>
