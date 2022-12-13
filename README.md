@@ -111,7 +111,9 @@ Stock price a week after vs. Number of daily cases showed weak negative correlat
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SMA is the easiest moving average to construct. It is simply the average price over the specified period. The average is called "moving" because it is plotted on the chart bar by bar, forming a line that moves along the chart as the average value changes.</br>
 </br>
 </br>
-<img src="https://github.com/theidari/project1/blob/main/OutputData/SMA_30_90.png" width="800"></br>
+<p align="center">
+<img src="https://github.com/theidari/project1/blob/main/OutputData/SMA_30_90.png" width="700"></br>
+</p>
 
 <img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2020-11-23_SMAmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-12-29_2021-04-01_SMAmain.png" width="400"></br>
 <img src="https://github.com/theidari/project1/blob/main/OutputData/2021-07-15_2021-12-31_SMAmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2022-01-01_2022-06-09_SMAmain.png" width="400"></br>
