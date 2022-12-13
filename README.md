@@ -21,7 +21,7 @@
 </table>
 
 <table border="0px">
-    <td rowspan="5"><b>Hypothesis:</b><br> &nbsp;&nbsp;&nbsp;Netflix performance as measured by their stock price has a significant positive relationship with COVID-19.
+    <td rowspan="5"><img src="https://github.com/theidari/project1/blob/main/Images/Hypothesis.png" width="250">
 </td>
     <td colspan="2" align="center"><img src="https://github.com/theidari/project1/blob/main/Images/3567801.jpg" width="200"></br><b>Questions</b>
 </td>
