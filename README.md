@@ -15,8 +15,7 @@
   <tr>
   <td colspan="1"><img src="https://github.com/theidari/project1/blob/main//Images/3288524.jpg" width="400"></td>
   <td colspan="1"><b>Project Idea:</b></br> This project explores the impact of COVID-19 on Netflix's stock price from 2019 to 2022 through different indicators. These indicators include variables like the number of daily cases and the number of deaths. </br></br>
-<b>Reason:</b></br>
-During the pandemic, people turned to the online streaming platforms for their main sources of entertainment. Netflix was one of the online streaming giants that seemed to have profited from this trend as indicated by their soaring stock price.
+<img src="https://github.com/theidari/project1/blob/main/Images/Reason.png" width="600">
 </td>
   </tr>
 </table>
