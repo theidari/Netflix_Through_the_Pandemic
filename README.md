@@ -150,6 +150,9 @@ Stock price a week after vs. Number of daily cases showed weak negative correlat
 
 <img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_RSIinmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_RSIoutmain.png" width="400"></br>
 
+<h4>Netflix vs. Diseny+</h4>
+
+
 <table style="width:700">
   <tr>
     <th>Q1</th>
