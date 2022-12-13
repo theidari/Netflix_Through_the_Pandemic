@@ -99,7 +99,13 @@ pip install yfinance
 <img src="https://github.com/theidari/project1/blob/main/OutputData/StockChart.png" width="800"></br>
 <img src="https://github.com/theidari/project1/blob/main/OutputData/COVID-19Chart.png" width="800"></br>
 
+<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22%20New%20Casesmain.png" width="390"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22%20New%20Deathsmain.png" width="405"></br>
 
+
+
+
+https://github.com/theidari/project1/blob/main/OutputData/2020-02-01%20New%20Casesmain.png
+https://github.com/theidari/project1/blob/main/OutputData/2020-02-01%20New%20Deathsmain.png
 
 <table style="width:700">
   <tr>
