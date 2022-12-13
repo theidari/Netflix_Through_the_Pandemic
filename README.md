@@ -96,16 +96,28 @@ pip install yfinance
 
 ### Results <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="742">
 </br>
+<h4>First Observation</h4>
 <img src="https://github.com/theidari/project1/blob/main/OutputData/StockChart.png" width="800"></br>
 <img src="https://github.com/theidari/project1/blob/main/OutputData/COVID-19Chart.png" width="800"></br>
 
+Stock price vs. Number of daily cases showed weak negative correlation with statistical insignificance.Stock price vs. Number of deaths showed positive correlation with statistical significance.</br>
 <img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22%20New%20Casesmain.png" width="390"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22%20New%20Deathsmain.png" width="405"></br>
 
+Stock price a week after vs. Number of daily cases showed weak negative correlation with statistical insignificance.Stock price a week after vs. Number of deaths showed positive correlation with statistical significance.</br>
+<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-02-01%20New%20Casesmain.png" width="390"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-02-01%20New%20Deathsmain.png" width="405"></br>
+
+<h4>Stock Indicator</h4>
+<b>1. Simple Moving Average (SMA) Indicator</b></br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SMA is the easiest moving average to construct. It is simply the average price over the specified period. The average is called "moving" because it is plotted on the chart bar by bar, forming a line that moves along the chart as the average value changes.</br>
+</br>
+</br>
+<img src="https://github.com/theidari/project1/blob/main/OutputData/SMA_30_90.png" width="800"></br>
+
+<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2020-11-23_SMAmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-12-29_2021-04-01_SMAmain.png" width="400"></br>
+<img src="https://github.com/theidari/project1/blob/main/OutputData/2021-07-15_2021-12-31_SMAmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2022-01-01_2022-06-09_SMAmain.png" width="400"></br>
 
 
 
-https://github.com/theidari/project1/blob/main/OutputData/2020-02-01%20New%20Casesmain.png
-https://github.com/theidari/project1/blob/main/OutputData/2020-02-01%20New%20Deathsmain.png
 
 <table style="width:700">
   <tr>
