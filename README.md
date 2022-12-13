@@ -96,8 +96,12 @@ pip install yfinance
 
 ### Results <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="742">
 </br>
-<h4>First Observation</h4>
-<img src="https://github.com/theidari/project1/blob/main/OutputData/StockChart.png" width="800"></br>
+<img src="https://github.com/theidari/project1/blob/main/Images/FirObs.png" width="180"></br>
+
+<h6 align="center">Fig [1]: Netflix Close Price Pre/During/Post Pandemic</h4>
+<p align="center">
+<img src="https://github.com/theidari/project1/blob/main/OutputData/StockChart.png" width="700">
+</p>
 <img src="https://github.com/theidari/project1/blob/main/OutputData/COVID-19Chart.png" width="800"></br>
 
 Stock price vs. Number of daily cases showed weak negative correlation with statistical insignificance.Stock price vs. Number of deaths showed positive correlation with statistical significance.</br>
