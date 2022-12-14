@@ -101,16 +101,28 @@ pip install yfinance
 <p align="center">
 <img src="https://github.com/theidari/project1/blob/main/OutputData/StockChart.png" width="700">
 </p>
-<h6 align="center">Fig [2]: Covid-19 Daily Dases and Deaths</h4>
+<h6 align="center">Fig [2]: Covid-19 Daily Cases and Deaths</h4>
 <p align="center">
 <img src="https://github.com/theidari/project1/blob/main/OutputData/COVID-19Chart.png" width="680"></br>
 </p>
 
-Stock price vs. Number of daily cases showed weak negative correlation with statistical insignificance.Stock price vs. Number of deaths showed positive correlation with statistical significance.</br>
-<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22%20New%20Casesmain.png" width="390"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22%20New%20Deathsmain.png" width="405"></br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stock price vs. Number of daily cases showed weak negative correlation <b>(-0.06)</b> with statistical insignificance <b>(p-value is 0.1129)</b>.But, Stock price vs. Number of deaths showed positive moderate correlation <b>(0.69)</b> with statistical significance.figure [3]</br>
+<h6 align="center">Fig [3]: Stock price vs. Number of Cases and Deaths</h4>
+<table align="center">
+<tr>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22%20New%20Casesmain.png" width="350"></td>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22%20New%20Deathsmain.png" width="350"></td>
+</tr>
+</table>
 
-Stock price a week after vs. Number of daily cases showed weak negative correlation with statistical insignificance.Stock price a week after vs. Number of deaths showed positive correlation with statistical significance.</br>
-<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-02-01%20New%20Casesmain.png" width="390"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-02-01%20New%20Deathsmain.png" width="405"></br>
+Same as pervious result, after a week lagged stock price vs. Number of daily cases showed weak negative correlation <b>(-0.07)</b> with statistical insignificance <b>(p-value is 0.0784)</b>.But, Stock price vs. Number of deaths showed positive moderate correlation <b>(0.69)</b> with statistical significance.figure [4]</br>
+<h6 align="center">Fig [4]: Stock price vs. Number of Cases and Deaths a week after lagged</h4>
+<table align="center">
+<tr>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-02-01%20New%20Casesmain.png" width="350"></td>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-02-01%20New%20Deathsmain.png" width="350"></td>
+</tr>
+</table>
 
 <h4>Stock Indicator</h4>
 <b>1. Simple Moving Average (SMA) Indicator</b></br>
