@@ -187,13 +187,17 @@ For the <i><b>Average directional index (ADX) Indicator </i></b> depending on AD
 </table>
 </br>
 
-<b>4. stochastic oscillator</b></br>
+<b>4. Stochastic Oscillator</b></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The stochastic oscillator is a momentum indicator that is widely used in forex trading to pinpoint potential trend reversals. This indicator measures momentum by comparing the close price to the trading range over a given period.</br>
 
-<h6 align="center">Fig [9]: Netflix Stochastic Oscillator</h4>
+<h6 align="center">Fig [11]: Netflix Stochastic Oscillator</h4>
 <p align="center">
 <img src="https://github.com/theidari/project1/blob/main/OutputData/Stochastic%20Oscillator.png" width="700"></br>
 </p>
+
+For the <i><b>Stochastic Oscillator</b></i> Indicator depending on the trading range, we had 2 steps around the covid year, 20%<oscillator< 80% (A), 20%>oscillator> 80% (B). Both oscillators showed a moderate <ins>positive correlation (A: 0.5 and B:0.68) in Death with statistical significance</ins>.
+
+<h6 align="center">Fig [12]: Stock price vs. Number of Cases and Deaths by Stochastic Oscillator</h4>
 
 <table align="center">
 <tr>
