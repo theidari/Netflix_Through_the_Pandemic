@@ -146,7 +146,7 @@ For the <i><b>SMA Indicator</b></i> depending on the true buy and sell signal, w
 <td><img src="https://github.com/theidari/project1/blob/main/OutputData/2022-01-01_2022-06-09_SMAmain.png" width="350"></td>
 </tr>
 </table>
-
+</br>
 <b>2. IchimokuCloud Indicator</b></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The IchimokuKinko Hyo, or Ichimoku for short, is a technical indicator that is used to gauge momentum along with future areas of support and resistance.</br>
 
@@ -164,8 +164,8 @@ For the <i><b>SMA Indicator</b></i> depending on the true buy and sell signal, w
 </tr>
 </table>
 
-
-<b>3. ADX (Average directional index) Indicator</b></br>
+</br>
+<b>3. Average directional index (ADX) Indicator</b></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ADX stands for Average Directional Movement Index and can be used to help measure the overall strength of a trend. The ADX indicator is an average of expanding price range values. The ADX is a component of the Directional Movement System developed by Welles Wilder.</br>
 </br>
 </br>
