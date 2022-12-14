@@ -246,20 +246,21 @@ For <i><b>RSI Indicator</b></i> depending on the trader’s behavior, we had 2 s
 ### Documents and Reference <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="570">
 
 <h4>Documents</h4>
-<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> Data Source
-  
+
+
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> <i>Data Source</i></br>
 <sup>[1]</sup><a href="https://www.kaggle.com/datasets/meetnagadia/netflix-stock-price-data-set-20022022"> Netflix Stock Price Data set 2002-2022 </a></br>
 <sup>[2]</sup><a href="https://ourworldindata.org/grapher/daily-covid-cases-deaths"> Daily confirmed COVID-19 cases and deaths, World </a></br>
 <sup>[3]</sup><a href="https://ca.finance.yahoo.com/"> Yahoo<i>!</i> Finance</a></br>
 
-<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> Data Source
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> <i>Code</i></br>
 <sup>[1]</sup><a href="https://github.com/theidari/project1/tree/main/Functions">Functions</a></br>
 <sup>[2]</sup><a href="https://github.com/theidari/project1/tree/main/Code">Main Code</a></br>
 
-<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> Result Output
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> <i>Result Output</i></br>
 <sup>[1]</sup><a href="https://github.com/theidari/project1/tree/main/OutputData">Figures</a></br>
 
-<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> Result DataFrame
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> <i>Result DataFrame</i></br>
 <sup>[1]</sup><a href="https://github.com/theidari/project1/blob/main/OutputData/stock_analaysis.csv">Stock Analaysis</a></br>
 
 <h4>Reference</h4>
