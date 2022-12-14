@@ -94,15 +94,17 @@ pip install yfinance
 <a href="https://github.com/theidari/pymaceuticals#overview-of-project-"><sup>TOP PAGE</sup></a>
 </p>
 
-### Results <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="742">
-</br>
+### Results <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="742"></br>
 <img src="https://github.com/theidari/project1/blob/main/Images/FirObs.png" width="180"></br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Netflix Close Price from 2019 to end of 2022 and Covid-19 daily cases and deaths at the same time are are shown in figure [1] and figure [2] in order.
 <h6 align="center">Fig [1]: Netflix Close Price Pre/During/Post Pandemic</h4>
 <p align="center">
 <img src="https://github.com/theidari/project1/blob/main/OutputData/StockChart.png" width="700">
 </p>
-<img src="https://github.com/theidari/project1/blob/main/OutputData/COVID-19Chart.png" width="800"></br>
+<h6 align="center">Fig [2]: Covid-19 Daily Dases and Deaths</h4>
+<p align="center">
+<img src="https://github.com/theidari/project1/blob/main/OutputData/COVID-19Chart.png" width="680"></br>
+</p>
 
 Stock price vs. Number of daily cases showed weak negative correlation with statistical insignificance.Stock price vs. Number of deaths showed positive correlation with statistical significance.</br>
 <img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22%20New%20Casesmain.png" width="390"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22%20New%20Deathsmain.png" width="405"></br>
