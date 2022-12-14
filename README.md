@@ -135,7 +135,7 @@ Same as pervious result, after a week lagged stock price vs. Number of daily cas
 
 For the <i><b>SMA Indicator</b></i> depending on the true buy and sell signal, we broke the time into 4 stages, <ins>2022/01/22 to 2020/11/23 (A), 2022/12/29 to 2021/04/01 (B), 2021/07/15 to 2021/12/31 (C), and 2022/01/01 to 2022/06/09</ins>. From 2022/01/22 to 2020/11/23 (A) Netflix price vs. the Number of daily cases/ deaths, showed a <b>moderate to strong positive</b> correlation (0.75 Cases / 0.67 Deaths) with statistical significance. But this result is not repeated from 2022/12/29 to 2021/12/31 (B, C). in this point, Netflix price vs. the Number of daily cases/ deaths has a <b>negative very-week and week</b> correlation in most parts (B: -0.3 Cases / 0.2 Deaths and C: -0.17 Cases) with statistical insignificance (p-value: 0.116 and 0.059) except (C:-0.57 Deaths) with <b>moderate negative</b> correlation with statistical significance. In the last part (D), Netflix price vs. the Number of daily cases/ deaths showed a <b>strong positive</b> correlation (0.82 Cases / 0.71 Deaths) with statistical significance. Figure [6]
 
-<h6 align="center">Fig [5]: Stock price vs. Number of Cases and Deaths by SMA & Buy/Sell signal</h4>
+<h6 align="center">Fig [6]: Stock price vs. Number of Cases and Deaths by SMA & Buy/Sell signal</h4>
 <table align="center">
 <tr>
 <td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2020-11-23_SMAmain.png" width="350"></td>
@@ -149,12 +149,21 @@ For the <i><b>SMA Indicator</b></i> depending on the true buy and sell signal, w
 
 <b>2. IchimokuCloud Indicator</b></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The IchimokuKinko Hyo, or Ichimoku for short, is a technical indicator that is used to gauge momentum along with future areas of support and resistance.</br>
-</br>
-</br>
-<img src="https://github.com/theidari/project1/blob/main/OutputData/IchimokuCloud%20Indicator.png" width="800"></br>
 
-<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2020-12-31_IchimokuCloudmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2021-01-01_2021-08-31_IchimokuCloudmain.png" width="400"></br>
-<img src="https://github.com/theidari/project1/blob/main/OutputData/2021-09-01_2022-02-01_IchimokuCloudmain.png" width="400"></br>
+<h6 align="center">Fig [7]: Netflix IchimokuCloud</h4>
+<p align="center">
+<img src="https://github.com/theidari/project1/blob/main/OutputData/IchimokuCloud%20Indicator.png" width="700"></br>
+</p>
+
+<h6 align="center">Fig [8]: Stock price vs. Number of Cases and Deaths by IchimokuCloud</h4>
+<table align="center">
+<tr>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2020-12-31_IchimokuCloudmain.png" width="350"></td>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2021-01-01_2021-08-31_IchimokuCloudmain.png" width="350"></td>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2021-09-01_2022-02-01_IchimokuCloudmain.png" width="350"></td>
+</tr>
+</table>
+
 
 <b>3. ADX (Average directional index) Indicator</b></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ADX stands for Average Directional Movement Index and can be used to help measure the overall strength of a trend. The ADX indicator is an average of expanding price range values. The ADX is a component of the Directional Movement System developed by Welles Wilder.</br>
