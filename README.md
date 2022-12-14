@@ -124,17 +124,28 @@ Same as pervious result, after a week lagged stock price vs. Number of daily cas
 </tr>
 </table>
 
-<h4>Stock Indicator</h4>
+<img src="https://github.com/theidari/project1/blob/main/Images/StcInd.png" width="180"></br>
 <b>1. Simple Moving Average (SMA) Indicator</b></br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SMA is the easiest moving average to construct. It is simply the average price over the specified period. The average is called "moving" because it is plotted on the chart bar by bar, forming a line that moves along the chart as the average value changes.</br>
-</br>
-</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SMA is the easiest moving average to construct. It is simply the average price over the specified period. The average is called "moving" because it is plotted on the chart bar by bar, forming a line that moves along the chart as the average value changes. figure [5] shows monthly and seasenaly moving average for netflix stock.</br>
+
+<h6 align="center">Fig [5]: Netflix SMA & Buy/Sell signal</h4>
 <p align="center">
 <img src="https://github.com/theidari/project1/blob/main/OutputData/SMA_30_90.png" width="700"></br>
 </p>
 
-<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2020-11-23_SMAmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-12-29_2021-04-01_SMAmain.png" width="400"></br>
-<img src="https://github.com/theidari/project1/blob/main/OutputData/2021-07-15_2021-12-31_SMAmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2022-01-01_2022-06-09_SMAmain.png" width="400"></br>
+For the <i><b>SMA Indicator</b></i> depending on the true buy and sell signal, we broke the time into 4 stages, <ins>2022/01/22 to 2020/11/23 (A), 2022/12/29 to 2021/04/01 (B), 2021/07/15 to 2021/12/31 (C), and 2022/01/01 to 2022/06/09</ins>. From 2022/01/22 to 2020/11/23 (A) Netflix price vs. the Number of daily cases/ deaths, showed a <b>moderate to strong positive</b> correlation (0.75 Cases / 0.67 Deaths) with statistical significance. But this result is not repeated from 2022/12/29 to 2021/12/31 (B, C). in this point, Netflix price vs. the Number of daily cases/ deaths has a <b>negative very-week and week</b> correlation in most parts (B: -0.3 Cases / 0.2 Deaths and C: -0.17 Cases) with statistical insignificance (p-value: 0.116 and 0.059) except (C:-0.57 Deaths) with <b>moderate negative</b> correlation with statistical significance. In the last part (D), Netflix price vs. the Number of daily cases/ deaths showed a <b>strong positive</b> correlation (0.82 Cases / 0.71 Deaths) with statistical significance. Figure [6]
+
+<h6 align="center">Fig [5]: Stock price vs. Number of Cases and Deaths by SMA & Buy/Sell signal</h4>
+<table align="center">
+<tr>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2020-11-23_SMAmain.png" width="350"></td>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-12-29_2021-04-01_SMAmain.png" width="350"></td>
+</tr>
+<tr>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2021-07-15_2021-12-31_SMAmain.png" width="350"></td>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2022-01-01_2022-06-09_SMAmain.png" width="350"></td>
+</tr>
+</table>
 
 <b>2. IchimokuCloud Indicator</b></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The IchimokuKinko Hyo, or Ichimoku for short, is a technical indicator that is used to gauge momentum along with future areas of support and resistance.</br>
