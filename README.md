@@ -207,16 +207,26 @@ For the <i><b>Stochastic Oscillator</b></i> Indicator depending on the trading r
 </table>
 </br>
 
-<b>5. RSI (Relative Strength Index) Indicator</b></br>
+<b>5. Relative Strength Index(RSI) Indicator</b></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Readings below 30 generally indicate that the stock is oversold, while readings above 70 indicate that it is overbought. Traders will often place this RSI chart below the price chart for the security, so they can compare its recent momentum against its market price.</br>
+
+<h6 align="center">Fig [11]: Netflix RSI</h4>
+<p align="center">
+<img src="https://github.com/theidari/project1/blob/main/OutputData/rsi.png" width="700"></br>
+</p>
+For <i><b>RSI Indicator</b></i> depending on the trader’s behavior, we had 2 steps around the covid year, regular 30%<oscillator< 70% (A), oversold/buy 30%>oscillator> 70% (B). similar to stochastic oscillator behaviors showed a <ins>moderate to strong positive correlation (A: 0.5 and B:0.7) in Death with statistical significance</ins>.
+
+<h6 align="center">Fig [14]: Stock price vs. Number of Cases and Deaths by RSI</h4>
+
+<table align="center">
+<tr>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_RSIinmain.png" width="400"></td>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_RSIoutmain.png" width="400"></td>
+</tr>
+</table>
 </br>
-</br>
-<img src="https://github.com/theidari/project1/blob/main/OutputData/rsi.png" width="800"></br>
 
-<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_RSIinmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_RSIoutmain.png" width="400"></br>
-
-<h4>Netflix vs. Diseny+</h4>
-
+<img src="https://github.com/theidari/project1/blob/main/Images/netd.png" width="180"></br>
 
 <table style="width:700">
   <tr>
