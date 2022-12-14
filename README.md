@@ -91,7 +91,7 @@ pip install yfinance
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<s>Jeremiah Sulunteh</s></br>
 
 <p align="right">
-<a href="https://github.com/theidari/pymaceuticals#overview-of-project-"><sup>TOP PAGE</sup></a>
+<a href="https://github.com/theidari/project1#project-overview-"><sup>TOP PAGE</sup></a>
 </p>
 
 ### Results <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="742"></br>
@@ -227,42 +227,49 @@ For <i><b>RSI Indicator</b></i> depending on the trader’s behavior, we had 2 s
 </br>
 
 <img src="https://github.com/theidari/project1/blob/main/Images/netd.png" width="180"></br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Netflix's stock closing price is more than Disney's stock closing price.</br>
+<h6 align="center">Fig [15]: Netflix stock price vs. Disney's stock price</h4>
 
-<table style="width:700">
-  <tr>
-    <th>Q1</th>
-    <td>Stock price vs. Number of daily cases showed weak negative correlation with statistical insignificance.</br>
-    Stock price vs. Number of deaths showed positive correlation with statistical significance.</td>
-    </th>
-  </tr>
-  <tr>
-    <td>Q2</td>
-    <td>Stock price a week after vs. Number of daily cases showed weak negative correlation with statistical insignificance.</br>
-    Stock price a week after vs. Number of deaths showed positive correlation with statistical significance.</td>
-  </tr>
-  <tr>
-    <td>Q3</td>
-    <td>Result</td>
-   <tr>
-    <td>Q4</td>
-    <td>Netflix's stock movement is oppositely related to Disney's stock movement.</td>
-  </tr>
+<table align="center">
+<tr>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/netvsdis.png" width="350"></td>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/boxnetdis.png" width="350"></td>
+</tr>
 </table>
-
+</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Netflix's stock movement is oppositely related to Disney's stock movement.</br>
+<p align="center">
+<img src="https://github.com/theidari/project1/blob/main/OutputData/corrnetdis.png" width="400"></br>
 </p>
+</br>
 
 ### Documents and Reference <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="570">
 
 <h4>Documents</h4>
-  - Data Source
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> Data Source
   
-  <sup>[1]</sup><a href="https://www.kaggle.com/datasets/meetnagadia/netflix-stock-price-data-set-20022022"> Netflix Stock Price Data set 2002-2022 </a></br>
-  <sup>[2]</sup><a href="https://ourworldindata.org/grapher/daily-covid-cases-deaths"> Daily confirmed COVID-19 cases and deaths, World </a></br>
-  <sup>[3]</sup><a href="https://ca.finance.yahoo.com/"> Yahoo<i>!</i> Finance</a></br>
+<sup>[1]</sup><a href="https://www.kaggle.com/datasets/meetnagadia/netflix-stock-price-data-set-20022022"> Netflix Stock Price Data set 2002-2022 </a></br>
+<sup>[2]</sup><a href="https://ourworldindata.org/grapher/daily-covid-cases-deaths"> Daily confirmed COVID-19 cases and deaths, World </a></br>
+<sup>[3]</sup><a href="https://ca.finance.yahoo.com/"> Yahoo<i>!</i> Finance</a></br>
 
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> Data Source
+<sup>[1]</sup><a href="https://github.com/theidari/project1/tree/main/Functions">Functions</a></br>
+<sup>[2]</sup><a href="https://github.com/theidari/project1/tree/main/Code">Main Code</a></br>
+
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> Result Output
+<sup>[1]</sup><a href="https://github.com/theidari/project1/tree/main/OutputData">Figures</a></br>
+
+<img src="https://github.com/theidari/python-api-challenge/blob/main/Design/red.png" width="10"> Result DataFrame
+<sup>[1]</sup><a href="https://github.com/theidari/project1/blob/main/OutputData/stock_analaysis.csv">Stock Analaysis</a></br>
 
 <h4>Reference</h4>
-  
+<sup>[1]</sup><a href="https://www.ig.com/en/trading-strategies/10-trading-indicators-every-trader-should-know-190604">10 Trading Indicators Every Trader Should Know</a></br>
+<sup>[2]</sup><a href="https://www.investopedia.com/articles/trading/07/adx-trend-indicator.asp">ADX</a></br>
+
+
+<p align="right">
+<a href="https://github.com/theidari/project1#project-overview-"><sup>TOP PAGE</sup></a>
+</p>
 <p align="center">
 <img src="https://github.com/theidari/project1/blob/main/Images/NetflixFooter.png" width="900">
 </p>
