@@ -238,6 +238,7 @@ For <i><b>RSI Indicator</b></i> depending on the trader’s behavior, we had 2 s
 </table>
 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Netflix's stock movement is oppositely related to Disney's stock movement.</br>
+<h6 align="center">Fig [16]: Netflix vs. Disney's Movement</h4>
 <p align="center">
 <img src="https://github.com/theidari/project1/blob/main/OutputData/corrnetdis.png" width="400"></br>
 </p>
