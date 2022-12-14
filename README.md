@@ -133,7 +133,7 @@ Same as pervious result, after a week lagged stock price vs. Number of daily cas
 <img src="https://github.com/theidari/project1/blob/main/OutputData/SMA_30_90.png" width="700"></br>
 </p>
 
-For the <i><b>SMA Indicator</b></i> depending on the true buy and sell signal, we broke the time into 4 stages, <ins>2022/01/22 to 2020/11/23 (A), 2022/12/29 to 2021/04/01 (B), 2021/07/15 to 2021/12/31 (C), and 2022/01/01 to 2022/06/09</ins>. From 2022/01/22 to 2020/11/23 (A) Netflix price vs. the Number of daily cases/ deaths, showed a <b>moderate to strong positive</b> correlation (0.75 Cases / 0.67 Deaths) with statistical significance. But this result is not repeated from 2022/12/29 to 2021/12/31 (B, C). in this point, Netflix price vs. the Number of daily cases/ deaths has a <b>negative very-week and week</b> correlation in most parts (B: -0.3 Cases / 0.2 Deaths and C: -0.17 Cases) with statistical insignificance (p-value: 0.116 and 0.059) except (C:-0.57 Deaths) with <b>moderate negative</b> correlation with statistical significance. In the last part (D), Netflix price vs. the Number of daily cases/ deaths showed a <b>strong positive</b> correlation (0.82 Cases / 0.71 Deaths) with statistical significance. Figure [6]
+For the <i><b>SMA Indicator</b></i> depending on the true buy and sell signal, we broke the time into 4 stages, <ins>2020/01/22 to 2020/11/23 (A), 2020/12/29 to 2021/04/01 (B), 2021/07/15 to 2021/12/31 (C), and 2022/01/01 to 2022/06/09</ins>. From 2020/01/22 to 2020/11/23 (A) Netflix price vs. the Number of daily cases/ deaths, showed a <b>moderate to strong positive</b> correlation (0.75 Cases / 0.67 Deaths) with statistical significance. But this result is not repeated from 2020/12/29 to 2021/12/31 (B, C). in this point, Netflix price vs. the Number of daily cases/ deaths has a <b>negative very-week and week</b> correlation in most parts (B: -0.3 Cases / 0.2 Deaths and C: -0.17 Cases) with statistical insignificance (p-value: 0.116 and 0.059) except (C:-0.57 Deaths) with <b>moderate negative</b> correlation with statistical significance. In the last part (D), Netflix price vs. the Number of daily cases/ deaths showed a <b>strong positive</b> correlation (0.82 Cases / 0.71 Deaths) with statistical significance. Figure [6]
 
 <h6 align="center">Fig [6]: Stock price vs. Number of Cases and Deaths by SMA & Buy/Sell signal</h4>
 <table align="center">
@@ -155,6 +155,8 @@ For the <i><b>SMA Indicator</b></i> depending on the true buy and sell signal, w
 <img src="https://github.com/theidari/project1/blob/main/OutputData/IchimokuCloud%20Indicator.png" width="700"></br>
 </p>
 
+For the <i><b>IchimokuCloud Indicator</b></i> depending on gauge momentum, we broke the time into 3 stages, <ins>2020/01/22 to 2020/12/31(A), 2021/01/01 to 2021/08/31 (B), and 2021/09/01 to 2022/02/01 (C)</ins>. From 2020/01/22 to 2020/12/31 (main covid year) Netflix price vs. the Number of daily cases/ deaths showed a <b>strong positive</b> correlation (0.75 Cases / 0.69 Deaths) with statistical significance. But this result is not repeated in the next 2 years (B, C). B has a very-week correlation (-0.05 Cases / 0.06 Deaths) with statistical insignificance (p-value: 0.481 and 0.417) and C has a strong negative correlation for Cases (-0.82) and negative week correlation for deaths (0.49) with statistical significance. Figure [8]
+
 <h6 align="center">Fig [8]: Stock price vs. Number of Cases and Deaths by IchimokuCloud</h4>
 <table align="center">
 <tr>
@@ -167,20 +169,39 @@ For the <i><b>SMA Indicator</b></i> depending on the true buy and sell signal, w
 </br>
 <b>3. Average directional index (ADX) Indicator</b></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ADX stands for Average Directional Movement Index and can be used to help measure the overall strength of a trend. The ADX indicator is an average of expanding price range values. The ADX is a component of the Directional Movement System developed by Welles Wilder.</br>
-</br>
-</br>
-<img src="https://github.com/theidari/project1/blob/main/OutputData/ADX.png" width="800"></br>
 
-<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_ADX14main.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_ADX30main.png" width="400"></br>
-<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_ADX1430main.png" width="400"></br>
+<h6 align="center">Fig [9]: Netflix ADX</h4>
+<p align="center">
+<img src="https://github.com/theidari/project1/blob/main/OutputData/ADX.png" width="700"></br>
+</p>
+
+For the <i><b>Average directional index (ADX) Indicator </i></b> depending on ADX of less than 25% because it is not used by traders and the trend is not strong enough, we had 3 steps around the covid year, ADX 14 Days < 25% (A), ADX Month < 25% (B), and Both ADX < 25% (C). All these steps showed <b>moderate</b> correlation with statistical significance.Figure [10]
+
+<h6 align="center">Fig [10]: Stock price vs. Number of Cases and Deaths by ADX</h4>
+<table align="center">
+<tr>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_ADX14main.png" width="350"></td>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_ADX30main.png" width="350"></td>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_ADX1430main.png" width="350"></td>
+</tr>
+</table>
+</br>
 
 <b>4. stochastic oscillator</b></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The stochastic oscillator is a momentum indicator that is widely used in forex trading to pinpoint potential trend reversals. This indicator measures momentum by comparing the close price to the trading range over a given period.</br>
-</br>
-</br>
-<img src="https://github.com/theidari/project1/blob/main/OutputData/Stochastic%20Oscillator.png" width="800"></br>
 
-<img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_SOinmain.png" width="400"><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_SOoutmain.png" width="400"></br>
+<h6 align="center">Fig [9]: Netflix Stochastic Oscillator</h4>
+<p align="center">
+<img src="https://github.com/theidari/project1/blob/main/OutputData/Stochastic%20Oscillator.png" width="700"></br>
+</p>
+
+<table align="center">
+<tr>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_SOinmain.png" width="350"></td>
+<td><img src="https://github.com/theidari/project1/blob/main/OutputData/2020-01-22_2022-06-01_SOoutmain.png" width="350"></td>
+</tr>
+</table>
+</br>
 
 <b>5. RSI (Relative Strength Index) Indicator</b></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Readings below 30 generally indicate that the stock is oversold, while readings above 70 indicate that it is overbought. Traders will often place this RSI chart below the price chart for the security, so they can compare its recent momentum against its market price.</br>
