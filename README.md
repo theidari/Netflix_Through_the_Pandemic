@@ -8,8 +8,8 @@
 ### Project Overview <img src="https://github.com/theidari/project1/blob/main/Images/NetflixLine.png" width="650">
 
 
-<img align="left" src="https://github.com/theidari/project1/blob/main//Images/3288524.jpg" width="200"></br><b>Project Idea:</b></br> This project explores the impact of COVID-19 on Netflix's stock price from 2019 to 2022 through different indicators. These indicators include variables like the number of daily cases and the number of deaths. </br></br>
-
+<img align="left" src="https://github.com/theidari/project1/blob/main//Images/3288524.jpg" width="300"><b>Project Idea:</b></br> This project explores the impact of COVID-19 on Netflix's stock price from 2019 to 2022 through different indicators. These indicators include variables like the number of daily cases and the number of deaths. </br></br>
+<img src="https://github.com/theidari/project1/blob/main/Images/Reason.png" width="600">
 
 <table border="0px">
   <tr>
