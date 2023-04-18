@@ -80,8 +80,7 @@ pip install yfinance
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ji Yeol (Eric) Yang</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ali Taghipour Heidari</br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hammad Ahmed</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<s>Nimra Wali</s></br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<s>Jeremiah Sulunteh</s></br>
+
 
 <p align="right">
 <a href="https://github.com/theidari/project1#project-overview-"><sup>TOP PAGE</sup></a>
